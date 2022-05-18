@@ -16,9 +16,9 @@
 .inc-font{
   font-size: 200%;
 }
-img{
-  justify-content: center;
-  overflow: hidden;
+img {
+  max-width: 100%;
+  height: auto;
 }
 .students-tag{
   background-color: gainsboro;

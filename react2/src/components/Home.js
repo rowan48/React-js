@@ -40,7 +40,7 @@ class Home extends React.Component {
                             </div>
                         </div>
                     </div>
-                    <div className="col-4 adjust-width ">
+                    <div className="col-4  ">
                         <img
                             src="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/school-logo-design-template-1a6eb5e8350bc146f093a8771ba2f077_screen.jpg?ts=1612430062"/>
                     </div>
